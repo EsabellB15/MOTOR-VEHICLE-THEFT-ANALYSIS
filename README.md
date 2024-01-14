@@ -1,4 +1,4 @@
-# MOTOR-VEHICLE-THEFT-ANALYSIS
+# Motor-Vehicle-Theft-Analysis
 ![car theft](https://github.com/EsabellB15/MOTOR-VEHICLE-THEFT-ANALYSIS/assets/123163220/b3558ae1-c38e-4a07-8220-b2deffe06a3e)
 
 ## Introduction
