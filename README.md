@@ -48,6 +48,8 @@ Power BI automatically connected related tables resulting in a star schema model
 - The top 3 most stolen vehicles are station wagons, Saloons, and Hatchbacks and the respective Top 3 Make_names of the most stolen vehicles are Toyota, Nissan, and Mazda.
 -	From the Dashboard, we can find that most vehicles are stolen in Auckland and least stolen in the southland, of which Auckland has the highest population in New Zealand.
 
+You can interact with this report [here](https://app.powerbi.com/groups/13bfa296-3bf8-4464-86eb-f48267f0fff7/reports/8b7ea864-c323-48f9-9eec-d7c787962628/ReportSection?redirectedFromSignup=1&experience=power-bi)
+
 ## Recommendations 
 - Investigate reasons for the low theft rate in Southland and consider replicating successful practices in other regions.
 - Evaluate the economic impact of vehicle theft based on the total value of stolen vehicles in 2021 and 2022.
